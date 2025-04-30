@@ -1,0 +1,1 @@
+export default function RegistroUsuario() { return <h2>Registro de Usuario</h2>; }

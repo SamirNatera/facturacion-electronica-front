@@ -1,0 +1,1 @@
+export default function EmisionFacturas() { return <h2>Emisión de Facturas</h2>; }
